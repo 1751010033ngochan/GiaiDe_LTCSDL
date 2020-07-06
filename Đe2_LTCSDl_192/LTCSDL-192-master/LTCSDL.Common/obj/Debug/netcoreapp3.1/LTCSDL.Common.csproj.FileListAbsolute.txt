@@ -15,3 +15,12 @@ F:\Lập Trình Cơ Sở Dữ Liệu\LTCSDL-192-De2\LTCSDL-192-master\LTCSDL.Com
 F:\Lập Trình Cơ Sở Dữ Liệu\LTCSDL-192-De2\LTCSDL-192-master\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.csproj.CoreCompileInputs.cache
 F:\Lập Trình Cơ Sở Dữ Liệu\LTCSDL-192-De2\LTCSDL-192-master\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.dll
 F:\Lập Trình Cơ Sở Dữ Liệu\LTCSDL-192-De2\LTCSDL-192-master\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\Lập Trình Cơ Sở Dữ Liệu\GiaiDe_LTCSDL\Đe2_LTCSDl_192\LTCSDL-192-master\LTCSDL.Common\bin\Debug\netcoreapp3.1\LTCSDL.Common.deps.json
+F:\Lập Trình Cơ Sở Dữ Liệu\GiaiDe_LTCSDL\Đe2_LTCSDl_192\LTCSDL-192-master\LTCSDL.Common\bin\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\Lập Trình Cơ Sở Dữ Liệu\GiaiDe_LTCSDL\Đe2_LTCSDl_192\LTCSDL-192-master\LTCSDL.Common\bin\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\Lập Trình Cơ Sở Dữ Liệu\GiaiDe_LTCSDL\Đe2_LTCSDl_192\LTCSDL-192-master\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.csprojAssemblyReference.cache
+F:\Lập Trình Cơ Sở Dữ Liệu\GiaiDe_LTCSDL\Đe2_LTCSDl_192\LTCSDL-192-master\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.AssemblyInfoInputs.cache
+F:\Lập Trình Cơ Sở Dữ Liệu\GiaiDe_LTCSDL\Đe2_LTCSDl_192\LTCSDL-192-master\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.AssemblyInfo.cs
+F:\Lập Trình Cơ Sở Dữ Liệu\GiaiDe_LTCSDL\Đe2_LTCSDl_192\LTCSDL-192-master\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.csproj.CoreCompileInputs.cache
+F:\Lập Trình Cơ Sở Dữ Liệu\GiaiDe_LTCSDL\Đe2_LTCSDl_192\LTCSDL-192-master\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\Lập Trình Cơ Sở Dữ Liệu\GiaiDe_LTCSDL\Đe2_LTCSDl_192\LTCSDL-192-master\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.pdb
