@@ -4980,11 +4980,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Lập Trình Cơ Sở Dữ Liệu\\De5_LTCSDL_192\\LTCSDL-192-master\\LTCSDL.DAL\\LTCSDL.DAL.csproj",
+      "projectUniqueName": "F:\\Lập Trình Cơ Sở Dữ Liệu\\GiaiDe_LTCSDL\\De5_LTCSDL_192\\LTCSDL-192-master\\LTCSDL.DAL\\LTCSDL.DAL.csproj",
       "projectName": "LTCSDL.DAL",
-      "projectPath": "F:\\Lập Trình Cơ Sở Dữ Liệu\\De5_LTCSDL_192\\LTCSDL-192-master\\LTCSDL.DAL\\LTCSDL.DAL.csproj",
+      "projectPath": "F:\\Lập Trình Cơ Sở Dữ Liệu\\GiaiDe_LTCSDL\\De5_LTCSDL_192\\LTCSDL-192-master\\LTCSDL.DAL\\LTCSDL.DAL.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "F:\\Lập Trình Cơ Sở Dữ Liệu\\De5_LTCSDL_192\\LTCSDL-192-master\\LTCSDL.DAL\\obj\\",
+      "outputPath": "F:\\Lập Trình Cơ Sở Dữ Liệu\\GiaiDe_LTCSDL\\De5_LTCSDL_192\\LTCSDL-192-master\\LTCSDL.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5000,8 +5000,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\Lập Trình Cơ Sở Dữ Liệu\\De5_LTCSDL_192\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj": {
-              "projectPath": "F:\\Lập Trình Cơ Sở Dữ Liệu\\De5_LTCSDL_192\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj"
+            "F:\\Lập Trình Cơ Sở Dữ Liệu\\GiaiDe_LTCSDL\\De5_LTCSDL_192\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj": {
+              "projectPath": "F:\\Lập Trình Cơ Sở Dữ Liệu\\GiaiDe_LTCSDL\\De5_LTCSDL_192\\LTCSDL-192-master\\LTCSDL.Common\\LTCSDL.Common.csproj"
             }
           }
         }
